@@ -1,0 +1,13 @@
+﻿Installing assembly 'F:\ehasan_git\StoryLineDataPull\StoryLineDataPull\bin\Release\StoryLineDataPull.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\ehasan_git\StoryLineDataPull\StoryLineDataPull\bin\Release\StoryLineDataPull.InstallLog
+   assemblypath = F:\ehasan_git\StoryLineDataPull\StoryLineDataPull\bin\Release\StoryLineDataPull.exe
+Installing service StoryLineDataPullar...
+Service StoryLineDataPullar has been successfully installed.
+Creating EventLog source StoryLineDataPullar in log Application...
+Committing assembly 'F:\ehasan_git\StoryLineDataPull\StoryLineDataPull\bin\Release\StoryLineDataPull.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\ehasan_git\StoryLineDataPull\StoryLineDataPull\bin\Release\StoryLineDataPull.InstallLog
+   assemblypath = F:\ehasan_git\StoryLineDataPull\StoryLineDataPull\bin\Release\StoryLineDataPull.exe

@@ -1,0 +1,8 @@
+F:\ehasan_git\StoryLineDataPull\StoryLineDataPull\bin\Release\StoryLineDataPull.exe.config
+F:\ehasan_git\StoryLineDataPull\StoryLineDataPull\bin\Release\StoryLineDataPull.exe
+F:\ehasan_git\StoryLineDataPull\StoryLineDataPull\bin\Release\StoryLineDataPull.pdb
+F:\ehasan_git\StoryLineDataPull\StoryLineDataPull\obj\Release\StoryLineDataPull.csprojResolveAssemblyReference.cache
+F:\ehasan_git\StoryLineDataPull\StoryLineDataPull\obj\Release\StoryLineDataPull.ProjectInstaller.resources
+F:\ehasan_git\StoryLineDataPull\StoryLineDataPull\obj\Release\StoryLineDataPull.csproj.GenerateResource.Cache
+F:\ehasan_git\StoryLineDataPull\StoryLineDataPull\obj\Release\StoryLineDataPull.exe
+F:\ehasan_git\StoryLineDataPull\StoryLineDataPull\obj\Release\StoryLineDataPull.pdb

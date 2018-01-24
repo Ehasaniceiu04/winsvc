@@ -1,0 +1,7 @@
+F:\ehasan_git\StoryLineDataPull\StoryLineDataPull\bin\Debug\StoryLineDataPull.exe.config
+F:\ehasan_git\StoryLineDataPull\StoryLineDataPull\bin\Debug\StoryLineDataPull.exe
+F:\ehasan_git\StoryLineDataPull\StoryLineDataPull\bin\Debug\StoryLineDataPull.pdb
+F:\ehasan_git\StoryLineDataPull\StoryLineDataPull\obj\Debug\StoryLineDataPull.ProjectInstaller.resources
+F:\ehasan_git\StoryLineDataPull\StoryLineDataPull\obj\Debug\StoryLineDataPull.csproj.GenerateResource.Cache
+F:\ehasan_git\StoryLineDataPull\StoryLineDataPull\obj\Debug\StoryLineDataPull.exe
+F:\ehasan_git\StoryLineDataPull\StoryLineDataPull\obj\Debug\StoryLineDataPull.pdb
